@@ -1,0 +1,37 @@
+{
+    "0001" : {
+        "name" : "Пасажир потяга о 6:20",
+        "cost" : 370,
+        "description" : "Хіт",
+        "order" : 1,
+        "img" : "passenger_train_at_6_20.jpg"
+    },
+    "0002" : {
+        "name" : "Відьма і вампірка",
+        "cost" : 399,
+        "description" : "Хіт",
+        "order" : 2,
+        "img" : "a_witch_and_a_vampire.jpg"
+    },
+    "0003" : {
+        "name" : "Острів проклятих",
+        "cost" : 210,
+        "description" : "Хіт",
+        "order" : 3,
+        "img" : "island_of_the_damned.jpg"
+    },
+    "0004" : {
+        "name" : "Теплі історії зимової ночі",
+        "cost" : 550,
+        "description" : "Хіт",
+        "order" : 4,
+        "img" : "warm_stories_of_a_winter_night.jpg"
+    },
+    "0005" : {
+        "name" : "Твій милий Скрудж",
+        "cost" : 112,
+        "description" : "Хіт",
+        "order" : 5,
+        "img" : "your_sweet_scrooge.jpg"
+    }
+}
